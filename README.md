@@ -44,9 +44,9 @@ Find your way around the field of Artificial Intelligence. Make use of this reso
     
 -   [Trevor Stephens Blog](http://trevorstephens.com/)  - Trevor Stephens Personal Page
     
--   [no free hunch | kaggle](http://blog.kaggle.com/)  - The Kaggle Blog about all things Data Science
+-   [Kaggle Blog](http://blog.kaggle.com/)  - The Kaggle Blog about all things Data Science
     
--   [A Quantitative Journey | outlace](http://outlace.com/)  - learning quantitative applications
+-   [A Quantitative Journey by Outlace](http://outlace.com/)  - learning quantitative applications
     
 -   [r4stats](http://r4stats.com/)  - analyze the world of data science, and to help people learn to use R
     
